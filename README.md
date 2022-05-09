@@ -17,7 +17,11 @@ Django- using Django I will deploy the project in Web browser.
 
 # Requirements of the project:
 install python latest version
+
 install OpenCv : pip install opencv-python
+
 install face recognition : pip install face recognition
+
 install visula studio c++
+
 install cmake++
